@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sitender</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A student in Department of mathematics (Mathematics and Computing), Indian Institute of Technology Delhi</h3>
 
 - 🌱 I’m currently learning **Data structures and algorithms in python**
 
